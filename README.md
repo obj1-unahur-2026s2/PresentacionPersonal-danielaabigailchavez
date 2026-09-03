@@ -4,10 +4,10 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
-
+- Mi nombre es: Daniela Abigail, Chavez
+- Vivo en Villa Tesei, Hurlingham
 
 ### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+- Me gusta salir a comer, las cosas dulces (especialmentes las gomitas) y los gatos.
+- Tengo una gata llamada Ivy. 
+- Actualmente estoy aprendiendo programación y espero ir mejorando. 
